@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.content {
+  background-color: rgb(115, 206, 241);
+  border-radius: 5px;
+  border: solid black;
+}
+
+.container {
+  background-color: rgb(199, 156, 199);
+  border-radius: 5px;
+  border: solid black;
+  margin: 10px;
+}
+
+.contents {
+  background-color: rgb(149, 143, 202);
+  border-radius: 5px;
+  border: solid black;
+}
